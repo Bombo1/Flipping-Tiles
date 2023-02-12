@@ -1,0 +1,16 @@
+
+   /* To make the grid using flixbox */
+.grid {
+  display: flex;
+}
+
+/* (Style column to fill the same space as the other columns) */
+.column {
+  flex: 1;
+}
+
+.row {
+  margin: 50px;
+  background: aquamarine;
+  text-align: center;
+}
